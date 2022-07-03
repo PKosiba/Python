@@ -1,0 +1,1 @@
+listacomentario=[ "bom de mais","adorei", "top", "#ficadica ;)"]
